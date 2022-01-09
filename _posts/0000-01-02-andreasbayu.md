@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Hallo"
 ---
-Your text
-Use the left arrow to go back!
+Ini adalah sebuah text sederhana
